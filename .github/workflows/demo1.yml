@@ -6,7 +6,6 @@ on:
       - main
       - 'develop-*'
       - 'feature/**'
-
   workflow_dispatch:
   push:
     branches:
